@@ -1,5 +1,5 @@
 # Diagramas UML
-Essa é a segunda parte do estudo dos diagramas UML, a primeira parte contém o diagrama de caso de uso e de classes e você pode conferir aqui: (jaja boto o link)
+Essa é a segunda parte do estudo dos diagramas UML, a primeira parte contém o diagrama de caso de uso e de classes e você pode conferir aqui: [(revisao pt1)](https://github.com/nychavs/AOO_Revisao/blob/main/revisao.md)
 
 ## diagrama de componentes
 > ![image](https://github.com/nychavs/diagramas-uml/assets/101810029/0cc501ed-9c91-43b0-b087-693cef5b785f)
